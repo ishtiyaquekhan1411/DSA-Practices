@@ -1,0 +1,62 @@
+First problem:
+
+i = N
+while i > 2:
+  i = i^1/25
+  print i
+
+N = 15625
+
+15625 > 2
+(125)^1/25
+print 20
+
+20 > 2
+(20)^1/25
+print 0
+
+0 > 2 stop
+
+(100)^1/25 = 2
+
+iteration i stmt
+1 500   print 20
+2 20   print 0
+
+i > 2
+(n^1/25^k) = 2
+1/25^klogn = log2
+1/25^klogn = 1
+logn = 25^k
+log25log2n = k
+
+
+Problem 2:
+i = 29
+while i < n:
+  i = i^23
+
+i < n
+(29)^23^k = n
+log(29)^23^k = logn
+23^klog2929=log29n
+23^k = log29n
+klog23 = log23log29n
+k = log23log29n
+
+Problem 3:
+i = 1
+while i < n
+  i = 2*i
+  i = 3*i
+
+
+6^k = n
+klog6 = logn
+k = logn
+
+for(int i=0;i<n;i++){
+  i*=k;
+}
+
+O(logkn)
