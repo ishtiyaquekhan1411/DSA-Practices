@@ -2,6 +2,8 @@
 ## Solved by greedy-approach(two pointers appraoch) big-oh(n)
 # Other approaches are linear approach (big-oh(n^2)) or (linear + binary search) big-on(nlogn)
 
+# Psuedo Code:
+
 def find_two_number_of_target_sum(array, target_sum):
   left = 0
   right = len(array) - 1
