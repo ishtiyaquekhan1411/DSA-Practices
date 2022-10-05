@@ -1,0 +1,11 @@
+T(n) = aT(n/2) + f(n), where f(n) = θ(n^k.log^p(n))
+
+case(1): loga(b) > k
+  θ(n^loga(b))
+case(2): loga(b) = k
+i. p > -1 => θ(n^k.log^(p+1)base(n))
+ii. p = -1 => θ(n^k.loglog(n))
+iii. p <= -1 => θ(n^k)
+case(3): loga(b) < k
+i. p >= 0 => θ(n^klog^(p)base(n))
+i. p < 0 => θ(n^k)
