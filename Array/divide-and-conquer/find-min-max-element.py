@@ -1,7 +1,4 @@
 # Method Implementation
-# Brute force approach: O(n^2) or O(n^2)
-# Recurrence relation: T(n/2) + c
-# Time Complexity: O(n)
 def findMinMaxElement(arr, start, end):
   # Base scenario for small case.
   if start == end:
@@ -40,3 +37,8 @@ start = 0
 end = len(arr) - 1
 result = findMinMaxElement(arr, start, end)
 print("Min and Max value is", result)
+
+# Brute force approach: O(n^2) or O(n^2)
+# Recurrence relation: 2T(n/2) + c
+# Time Complexity: O(n)
+# Link for Time Complexity: https://www.enjoyalgorithms.com/blog/find-the-minimum-and-maximum-value-in-an-array
