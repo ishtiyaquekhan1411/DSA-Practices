@@ -47,6 +47,9 @@
 | Two Sum | [click here](https://github.com/ishtiyaquekhan1411/DSA-Practices/blob/main/Array/problems/three_sum.py) |
 | Collinear Points | **Unsolved*** [click here](https://github.com/ishtiyaquekhan1411/DSA-Practices/blob/main/Array/problems/verify_three_collinear_points.py) |
 
-### Question Lists
+## Question Lists
 - Todo Question lists: [Link](https://github.com/ishtiyaquekhan1411/DSA-Practices/blob/main/Interview-questions.txt)
+
+## Must See links
+- Enjoy Algorithms: [Link](https://www.enjoyalgorithms.com/)
 - Leet Code problem links: [Link](https://docs.google.com/spreadsheets/d/1-wKcV99KtO91dXdPkwmXGTdtyxAfk1mbPXQg81R9sFE/edit#gid=0)
