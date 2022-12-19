@@ -49,3 +49,4 @@
 
 ### Question Lists
 - Todo Question lists: [Link](https://github.com/ishtiyaquekhan1411/DSA-Practices/blob/main/Interview-questions.txt)
+- Leet Code problem links: [Link](https://docs.google.com/spreadsheets/d/1-wKcV99KtO91dXdPkwmXGTdtyxAfk1mbPXQg81R9sFE/edit#gid=0)
