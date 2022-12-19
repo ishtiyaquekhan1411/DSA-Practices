@@ -1,3 +1,0 @@
-1) Find first infinite where value of N is not given.
--8 20 27 47 29 35 infinite infinite ...
-2) Why Binary Search is Preferred over Ternary Search?

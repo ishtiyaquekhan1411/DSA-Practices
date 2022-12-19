@@ -1,3 +1,0 @@
-1. An almost sorted array is given to us and the task is to sort that array completely. Then,
-which sorting algorithm would you prefer and why?
-Answer: 
