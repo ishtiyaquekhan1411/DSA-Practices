@@ -51,5 +51,5 @@
 - Todo Question lists: [Link](https://github.com/ishtiyaquekhan1411/DSA-Practices/blob/main/Interview-questions.txt)
 
 ## Must See links
-- Enjoy Algorithms: [Link](https://www.enjoyalgorithms.com/)
+- Enjoy Algorithms: [Link](https://www.enjoyalgorithms.com/data-structures-and-algorithms-course/)
 - Leet Code problem links: [Link](https://docs.google.com/spreadsheets/d/1-wKcV99KtO91dXdPkwmXGTdtyxAfk1mbPXQg81R9sFE/edit#gid=0)
